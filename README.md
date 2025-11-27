@@ -1,0 +1,1 @@
+# artify_user_data_deletion_guide
